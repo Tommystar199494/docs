@@ -224,3 +224,4 @@ The revised `steps` section of the workflow will look like this:
 ```
 
 For more information about editing the {% data variables.product.prodname_codeql %} workflow file, see  "[Configuring {% data variables.product.prodname_code_scanning %}](/code-security/secure-coding/configuring-code-scanning#editing-a-code-scanning-workflow)."
+Start
